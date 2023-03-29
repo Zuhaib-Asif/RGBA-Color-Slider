@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGBA Color Slider</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>RGBA Color Slider</h1>
+        <div class="wrapper red-color">
+            R<input type="range" name="" id="red" value="0" max="255" oninput="colorChange()">
+        </div>
+        <div class="wrapper green-color">
+            G<input type="range" name="" id="green" value="0" max="255" oninput="colorChange()">
+        </div>
+        <div class="wrapper blue-color">
+            B<input type="range" name="" id="blue" value="0" max="255" oninput="colorChange()">
+        </div>
+        <div class="wrapper transparent">
+            A<input type="range" name="" id="transparent" value="100" max="100" oninput="colorChange()">
+        </div>
+        <div id="output-color-value">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
