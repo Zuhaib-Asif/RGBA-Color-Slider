@@ -15,4 +15,4 @@ Contributing:
 Contributions to this project are welcome! If you would like to contribute, please fork the repository and submit a pull request. Please ensure that any changes you make are well-documented and follow best practices for JavaScript, HTML, and CSS.
 
 Contact
-If you have any questions or feedback about this project, please feel free to contact me at thezuhaibasif@gmail.com.
+If you have any questions or feedback about this project, please feel free to contact me at thezuhaibasif@gmail.com
