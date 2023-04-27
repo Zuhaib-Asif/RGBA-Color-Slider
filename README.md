@@ -1,3 +1,5 @@
+# Preview Live Site: 
+https://zuhaib-asif.github.io/RGBA-Color-Slider/
 # RGBA-Color-Slider
 
 This project is a simple web application that allows users to generate a color using an RGBA color slider. The generated color is displayed on the screen along with its corresponding RGBA value.
